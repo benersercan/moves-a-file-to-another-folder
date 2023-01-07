@@ -1,9 +1,5 @@
 # I hope it saves you time :)
 
-# Atolye15 Question
-
-Please update `src/move.ts` to pass tests. You can find the tests in `src/move.spec.ts`.
-
 ## Acceptance criteria
 
 Imagine an array that contains folders. These folders can have files in it. `move` function moves a file to another folder and returns the new state of given list.
